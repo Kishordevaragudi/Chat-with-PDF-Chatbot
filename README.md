@@ -25,4 +25,6 @@ The knowledge and skills to build your own PDF Chatbot using open-source technol
 7. Run the file using streamlit
 #### streamlit run chatbot_app.py
 
+# Output results
+![Screenshot 2023-08-31 104805](https://github.com/Kishordevaragudi/Chat-with-PDF-Chatbot/assets/105155723/2e2a5c9b-d748-4a61-9561-6260be7b6405)
 
