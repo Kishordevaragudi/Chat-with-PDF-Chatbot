@@ -13,4 +13,16 @@ The knowledge and skills to build your own PDF Chatbot using open-source technol
 
 ## How to run the Project in the local machine:
 1. Clone the repo using command
-#### git clone 
+#### git clone https://github.com/Kishordevaragudi/Chat-with-PDF-Chatbot.git
+2. create a virtual environment in local machine
+#### conda create -p venv python==3.10 -y
+3. Install the python packages using txt file
+#### pip install -r requirements.txt
+4. Install git lfs in your local machine
+#### git lfs install
+6. clone the repo of LLM model (Lamini LM 738M)
+#### git clone https://huggingface.co/MBZUAI/LaMini-T5-738M
+7. Run the file using streamlit
+#### streamlit run chatbot_app.py
+
+
